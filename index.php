@@ -7,7 +7,7 @@
 
 <body>
 	
-	This is the first version of my git project.
+	This is the second version of my git project.
 	
 </body>
 </html>
