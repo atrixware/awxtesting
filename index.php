@@ -7,7 +7,11 @@
 
 <body>
 	
-	This is the third version of my git project.
+	This is the fourth version of my git project - let's pretend this was authored by Chris.
+	
+	<p>
+		Chris is the author.
+	</p>
 	
 </body>
 </html>
